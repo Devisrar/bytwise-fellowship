@@ -1,0 +1,25 @@
+Hello This is Muhammad israr, in the first week of Bytwise (flutter) i have implemented A slider widget in my project by using Provider
+State Management . I have Learned Why we need A provider in our Flutter Apps and why it makes an huge impact of the developers life .
+Why provider state management?
+What is state management in Flutter?
+ Note: To change the state of a widget in Flutter, we use the setState method.
+ Example
+
+ Let's say you have an app and you want to add dark mode features to it, but when you enable dark mode, it should change the color scheme of the whole app, not just a single page. Since setState does not reflect changes in the entire app, we need a provider package at this point.
+
+ Let's understand some methods before using the provider package:
+
+ ChangeNotifierProvider: This is the app's entry point to enable the provider package.
+
+ Provider.of<>(): Interacts between data holder(ChangeNotifier) and Consumer.
+
+ Consumer: Uses data from ChangeNotifier.
+
+ ChangeNotifier: The ChangeNotifier class holds data.
+
+ notifierListener: This method is equivalent to setState.
+
+ I have learned Single Provider and Multiprovider and the use where we need to use Multiprovider or a single provider.
+
+
+ Besides this i am on A project in which im implementing A online fruit cart system by use Provider with local storage which i will submit in week 2 .
