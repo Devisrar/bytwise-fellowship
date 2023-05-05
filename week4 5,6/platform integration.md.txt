@@ -1,0 +1,5 @@
+The Shudder documentation page you've connected to makes sense of stage joining in Vacillate, which alludes to the most common way of coordinating your Ripple application with stage explicit elements or administrations that are not given by Shudder itself. Here is a breakdown of the page:
+
+Incorporating with stage explicit APIs: This part covers how to utilize modules to get to local stage APIs (for example camera, area, sensors) from your Ripple application. Ripple gives a rich arrangement of modules that permit you to effortlessly get to these APIs and use them in your application.
+
+Incorporating with local perspectives: Once in a while you might have to coordinate local perspectives into your Vacillate application, for example, a local guide view or a video player. This part covers how to utilize stage perspectives to install local perspectives into your Shudder application and cooperate with them from Ripple.
